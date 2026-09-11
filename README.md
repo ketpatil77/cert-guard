@@ -13,7 +13,7 @@ Explainable certificate fraud screening for student credentials. Upload an image
 
 ## Requirements
 
-- Node.js 20 or newer
+- Node.js 20.19 or newer (or 22.12+)
 - npm
 - A modern browser
 
