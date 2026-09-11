@@ -11,6 +11,12 @@ Explainable certificate fraud screening for student credentials. Upload an image
 - Lightweight suspicious-editing signal
 - Explainable, deterministic fraud score
 
+## Requirements
+
+- Node.js 20 or newer
+- npm
+- A modern browser
+
 ## Run locally
 
 ```bash
